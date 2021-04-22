@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudBanking.Api", "CloudBanking.Api\CloudBanking.Api.csproj", "{8275BC1D-BDAB-4437-9335-318FF0826A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudBanking.Core", "CloudBanking.Core\CloudBanking.Core.csproj", "{1CF1FC81-9B08-4A87-B431-E01E4808D5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudBanking.Infrastructure", "CloudBanking.Infrastructure\CloudBanking.Infrastructure.csproj", "{DCAF79E0-969C-43F1-9139-AF6E48CD18D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8275BC1D-BDAB-4437-9335-318FF0826A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8275BC1D-BDAB-4437-9335-318FF0826A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8275BC1D-BDAB-4437-9335-318FF0826A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8275BC1D-BDAB-4437-9335-318FF0826A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF1FC81-9B08-4A87-B431-E01E4808D5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF1FC81-9B08-4A87-B431-E01E4808D5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF1FC81-9B08-4A87-B431-E01E4808D5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF1FC81-9B08-4A87-B431-E01E4808D5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAF79E0-969C-43F1-9139-AF6E48CD18D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAF79E0-969C-43F1-9139-AF6E48CD18D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAF79E0-969C-43F1-9139-AF6E48CD18D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAF79E0-969C-43F1-9139-AF6E48CD18D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7765DB80-13F7-4EE1-BE65-945ED601744B}
+	EndGlobalSection
+EndGlobal
